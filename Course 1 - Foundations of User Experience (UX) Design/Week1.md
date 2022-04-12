@@ -45,4 +45,6 @@ Play video starting at ::53 and follow transcript0:53
 As you can tell, we have a lot
 
 of learning ahead of us. Let's get started
+
+
 <a name="basics">Essentials :  </a> 
